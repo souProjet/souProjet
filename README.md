@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/souProjet/souProjet/image.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://github.com/souProjet/souProjet/blob/main/image.gif" href="https://github.com/souProjet"  width="60%"/><br> 
 
 </div>
 
