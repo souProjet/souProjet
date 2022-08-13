@@ -25,4 +25,6 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on discord: **[Sou - Rufus#2695](https://discord.com)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
+<div align="center" width="50">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souProjet&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
